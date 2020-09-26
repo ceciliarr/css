@@ -1,0 +1,25 @@
+
+*{
+    font-family: monospace;
+}
+h1{
+    font-size: 80px;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+    color: gray;
+}
+
+.menos{
+    color: lightseagreen;
+}
+
+.mas{
+    color: lime;
+}

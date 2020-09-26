@@ -1,0 +1,30 @@
+
+h1{
+    font-size: 300;
+    font-family: cursive;
+    color: lightcoral;
+}
+.texto {
+    color: grey;
+}
+a {
+    color: rgb(76, 32, 178);
+    text-decoration: none;
+}   
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.italica {
+    font-style: italic;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.distinto {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}

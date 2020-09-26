@@ -1,0 +1,17 @@
+* {
+    background-color: #212121;
+}
+
+h1 {
+    font-size: 120px;
+    font-family: 'Bangers', cursive;
+    font-weight: 900;
+    color: rgb(176, 223, 178);
+}
+
+p {
+    font-size: 48px;
+    font-family: 'Balsamiq Sans', cursive;
+    font-weight: 700;
+    color: #FAFAFA
+}

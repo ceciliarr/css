@@ -1,0 +1,100 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+
+}
+
+h1{
+    font-size: 100px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+li{
+    font-size: 30px;
+    
+}
+span{
+    width: 150px;
+    display:block;
+}
+.azul1 {
+    background-color: #065BFB;
+    color: white;
+    text-align: center;
+
+}
+.azul2 {
+    background-color: #1F62E0;
+    color: white;
+    text-align: center;
+}
+.azul3 {
+    background-color:#3865BB;
+    color: white;
+    text-align: center;
+}
+.azul4 {
+    background-color: #3A5A99;
+    color: white;
+    text-align: center;
+}
+.azul5 {
+    background-color: #3C5078;
+    color: white;
+    text-align: center;
+}
+
+.rojo1{
+    background-color: rgb(249, 63, 4) ;
+    color: white;
+    text-align: center;
+}
+.rojo2{
+    background-color: rgb(230, 79, 31 ) ;
+    color: white;
+    text-align: center;
+}
+.rojo3{
+    background-color: rgb(204, 86, 48) ;
+    color: white;
+    text-align: center;
+}
+.rojo4{
+    background-color: rgb(162, 66, 35) ;
+    color: white;
+    text-align: center;
+}
+.rojo5{
+    background-color: rgb(114, 47, 26) ;
+    color: white;
+    text-align: center;
+}
+
+.verde1{
+    background-color:hsl(103, 98%, 50%) ;
+    color: white;
+    text-align: center;
+}
+.verde2{
+    background-color:hsl(103, 78%, 52%) ;
+    color: white;
+    text-align: center;
+}
+.verde3{
+    background-color:hsl(103, 94%, 40%) ;
+    color: white;
+    text-align: center;
+}
+.verde4{
+    background-color: hsl(103, 82%, 35%) ;
+    color: white;
+    text-align: center;
+}
+.verde5{
+    background-color: hsl(103, 94%, 23%) ;
+    color: white;
+    text-align: center;
+}

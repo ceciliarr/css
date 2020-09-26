@@ -1,0 +1,28 @@
+*{
+    font-family: 'Dancing Script', cursive;   
+}
+h1{
+    font-size: 80px;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+span{
+    font-size: 20px;
+}
+
+.hecha{
+    background-color: #B7E94A;
+}
+.haciendo{
+    background-color: #FD920A;
+}
+.pendiente{
+    background-color: #5D7EF0;
+}
+.cancelada{
+    background-color: #F1462E;
+}
